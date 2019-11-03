@@ -13,6 +13,6 @@ python guard.py --username=yourusername --password=yourpassword --enable/--disab
 
 example
 -------
-python guard.py --username=momochan --password=momo123love --enable
+python guard.py --username=[ENTER YOUR EMAIL] --password=[ENTER YOUR PASS]--enable
 
 
