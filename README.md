@@ -7,7 +7,7 @@ How to use
 apt update && apt upgrade
 apt install python
 pip install request
-git clone https://github.com/PoiXploit/ProfileGuard
+git clone https://github.com/OSUS-PH/ProfileGuard
 cd ProfileGuard
 python guard.py --username=yourusername --password=yourpassword --enable/--disable
 
